@@ -10,8 +10,8 @@ namespace SwitchCaseProect
     {
         static void Main(string[] args)
         {
-            SwitchCase sc = new SwitchCase();
-            sc.Example();
+            ExcerciseOne sc = new ExcerciseOne();
+            sc.UserInput();
 
             Console.ReadLine();
         }
